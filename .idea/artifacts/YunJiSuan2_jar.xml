@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="YunJiSuan2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/YunJiSuan2_jar</output-path>
+    <root id="archive" name="YunJiSuan2.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="YunJiSuan2" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/conf/setting.xml/org/springframework/spring-core/5.3.12/spring-core-5.3.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/conf/setting.xml/org/junit/jupiter/junit-jupiter-params/5.8.1/junit-jupiter-params-5.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/conf/setting.xml/org/springframework/spring-jcl/5.3.12/spring-jcl-5.3.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/conf/setting.xml/org/junit/platform/junit-platform-commons/1.8.1/junit-platform-commons-1.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/conf/setting.xml/org/projectlombok/lombok/1.18.22/lombok-1.18.22.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/conf/setting.xml/org/junit/platform/junit-platform-engine/1.8.1/junit-platform-engine-1.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/conf/setting.xml/org/springframework/spring-expression/5.3.12/spring-expression-5.3.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/conf/setting.xml/org/springframework/spring-beans/5.3.12/spring-beans-5.3.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/conf/setting.xml/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/conf/setting.xml/org/springframework/spring-aop/5.3.12/spring-aop-5.3.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/conf/setting.xml/org/junit/jupiter/junit-jupiter/5.8.1/junit-jupiter-5.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/conf/setting.xml/org/springframework/spring-context/5.3.12/spring-context-5.3.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/conf/setting.xml/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/conf/setting.xml/org/junit/jupiter/junit-jupiter-api/5.8.1/junit-jupiter-api-5.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/conf/setting.xml/org/junit/jupiter/junit-jupiter-engine/5.8.1/junit-jupiter-engine-5.8.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
